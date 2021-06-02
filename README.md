@@ -1,6 +1,6 @@
 `Reverse Tic-Tac-Toe` Game for Console! 
 
-This game design using C# and .NET framework as a Console Application.
+This game designed using C# and .NET framework as a Console Application.
 
 `Reverse Tic-Tac-Toe` game has 2 modes: 
 1. Multiplayer mode (i.e. 2 players)
